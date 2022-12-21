@@ -43,6 +43,7 @@ header a {
     background-size: cover;
     background-attachment: fixed;
     height: 1000px;
+    color: white;
 }
 
 #livro {
@@ -50,6 +51,7 @@ header a {
     background-size: cover;
     background-attachment: fixed;
     height: 1000px;
+    color: white;
 }
 
 .texto {
